@@ -44,5 +44,7 @@
 
 ## Rach out to me
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> : unityjohn2018@gmail.com
+
 <a href="https://www.instagram.com/johnnyboy3132/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> : Johnnyboy3132
+
 <a href="https://twitter.com/bj_boring"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> : Boring john BJ
