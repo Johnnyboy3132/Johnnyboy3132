@@ -42,7 +42,7 @@
 
 <br>
 
-## Rach out to me
+## Reach out to me
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> : unityjohn2018@gmail.com
 
 <a href="https://www.instagram.com/johnnyboy3132/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> : Johnnyboy3132
