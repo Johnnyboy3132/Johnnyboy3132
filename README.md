@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Johnnyboy3132
+- 👋 Hi, I’m JOhn
 - 🌱 I’m currently learning AI 
 - 💞️ I’m looking to collaborate on AI related projects.
 
