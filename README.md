@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JOhn
+- 👋 Hi, I’m John
 - 🌱 I’m currently learning AI 
 - 💞️ I’m looking to collaborate on AI related projects.
 
